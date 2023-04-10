@@ -3,6 +3,9 @@
 
 ## 📚 Computer Networks Notes
 - 📖 [_Handwritten Notes Link_](https://drive.google.com/file/d/1sixK5Pjb2vs-jVNtwYuRYQk_ZUJkcfut/view?usp=sharing)
+
+## 📚 Namastey JavaScript Notes
+- 📖 [_Handwritten Notes Link_](https://drive.google.com/file/d/1uP0lj8GFqUm5dgUnEo2-dtFdTuMFSrav/view?usp=sharing)
 ## 📚 [_Chapter 01 - Operators_](https://tinyurl.com/2p8futts) 
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/mry4f83t)
 - 📖 [_Theory Solution_](https://tinyurl.com/2p8fspya) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
@@ -40,6 +43,60 @@
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2007%20-%20How%20to%20consume%20a%20promise-%20Part-2/Code)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1u4_viuMVeezWrcCGcy4fMPWhSmU5tfJd/view?usp=sharing)
 
+## 📚 [_Chapter 08 - Part-3 Promises Practice & .then() Concept_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2008%20-%20Part%20-%203%20%20Promises%20practice) (Date: 25-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2008%20-%20Part%20-%203%20%20Promises%20practice/Code)
+- 📖 [_Theory Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2008%20-%20Part%20-%203%20%20Promises%20practice/Theory)  
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1uEFACA5cA5Fbh0i8FnwPqKAi-3tvMP4r/view?usp=sharing)
+
+## 📚 [_Chapter 09 - Part-4 Promises and Callbacks Practice_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2009%20-%20Part%20-%204%20%20Promises%20and%20callbacks%20practice) (Date: 26-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2009%20-%20Part%20-%204%20%20Promises%20and%20callbacks%20practice/Code)
+- 📝 [_Practice Question Link_](https://drive.google.com/file/d/1hnYKAaeyyE3TMkYKBIVyNbRhXKnK0qmd/view?usp=sharing)
+
+## 📚 [_Chapter 10 - Closures, Iterators and Generators - Road to Async and Await_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2010%20-%20Closures%20-%20Iterators%20and%20Generators) (Date: 28-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2010%20-%20Closures%20-%20Iterators%20and%20Generators/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1uJCrxKv4cvO5PL53YOQBk85DGpzrHVNX/view?usp=sharing)
+
+## 📚 [_Chapter 11 - Async/Await - Try...Catch_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2011%20-%20Async-Await%20-%20Try%20and%20Catch) (Date: 04-03-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2011%20-%20Async-Await%20-%20Try%20and%20Catch/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1maZyIMYM5U7uD5DAcdjQWpLQRWz6Sy54/view?usp=sharing)
 
 
- 
+## 📚 Database Management System
+## 📚 [_Introduction To Databases And DBMS_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Introduction%20To%20Databases%20and%20DBMS) (Date: 05-03-2023)
+- 👨‍💻 [_Digital Notes of Live Class_](https://drive.google.com/file/d/120d3D5ZOOA03nfPV1rXm87eeryj4kZWf/view?usp=sharing)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1o3uqXUuyJITDlmq85_9s63URUa0Wm2SY/view?usp=sharing)
+
+## 📚 [_Chapter 01 - SQL_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/SQL1) (Date: 09-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1062acc_kFyOhv92UFxIlXqUM0SB6C34O/view?usp=sharing)
+- 📝 [_Good Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL1/SQL1.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+- 👨‍💻 [_InterviewBit MySql commands link_](https://www.interviewbit.com/blog/mysql-commands/)
+- 👨‍💻 [_W3 Schools link_](https://www.w3schools.com/mysql/mysql_sql.asp)
+
+## 📚 [_Chapter 02 - SQL_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/SQL2) (Date: 10-03-2023)
+- 📝 [_Class Notes of Live Class_](https://drive.google.com/file/d/1R9DXkh0waSGqakEvP3Q5AJBgrpaVEloU/view?usp=sharing)
+- 📝 [_Hand Written Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL2/notes.md)
+- 📝 [_Good Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL2/SQL2.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
+## 📚 [_Chapter 03 - SQL_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/SQL3) (Date: 11-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/14Cctr_PZl6RdsvGOWALANTH8dKB3egq2/view?usp=sharing)
+- 📝 [_Good Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL3/SQL3.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
+## 📚 [_Chapter 04 - Road to Normalisation_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Road%20To%20Normalisation) (Date: 12-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/15abeu-izNhzlqF8FSuNspcIQuI9CEvF7/view?usp=sharing)
+- 📝 [_Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/Road%20To%20Normalisation/Normalization-I.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
+## 📚 [_Chapter 05 - Normalisation_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/sNormalisation%20Part%202) (Date: 14-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1QjNjcZiafn2kY6T5aPCXIpQK_KM9UtyG/view?usp=sharing)
+- 📝 [_Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/sNormalisation%20Part%202/Normalization-II.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
+## 📚 [_Chapter 06 - Normalisation_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/sNormalisation%20Part%203) (Date: 18-03-2023)
+- 📝 [_Digital Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/sNormalisation%20Part%203/Black%20Paper%20Landscape%20(13).pdf)
+- 📝 [_Question 1_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/sNormalisation%20Part%203/hw.md) 
+- 📝 [_Question 2_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/sNormalisation%20Part%203/requirements.md)
+
+
+## 📚 Introduction to Node Js
+ ## 📚 [_Chapter 01 - Features of NodeJs_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js) (Date: 09-04-2023)
+ - 👨‍💻 [_Digital Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js/globals_node.js)
+- 👨‍💻 [_Digital Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js/diff_node_browser.js)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1wf0pYl1oa44Kgu_ooejJG8YnAyFCdxO0/view?usp=sharing)
